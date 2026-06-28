@@ -86,7 +86,7 @@ The Northwind database is a sample business database containing information abou
 
 Hiren Vaghela
 
-Aspiring Data Analyst | SQL Developer | Python Enthusiast
+Aspiring Data Science| Data Analyst | SQL Developer 
 
 ---
 
