@@ -32,52 +32,10 @@ The Northwind database is a sample business database containing information abou
 - Evaluate employee performance
 - Monitor shipping efficiency
 - Generate revenue insights
-- Perform customer segmentation
-- Build KPI-driven business reports
 - Practice advanced SQL concepts
 
 ---
 
-## SQL Concepts Covered
-
-### Basic SQL
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- LIMIT
-
-### Joins
-- INNER JOIN
-- LEFT JOIN
-- Multi-table Joins
-
-### Aggregate Functions
-- COUNT()
-- SUM()
-- AVG()
-- MIN()
-- MAX()
-
-### Date Functions
-- YEAR()
-- MONTH()
-- QUARTER()
-- TIMESTAMPDIFF()
-
-### Advanced SQL
-- Common Table Expressions (CTEs)
-- Window Functions
-- Ranking Functions
-- Subqueries
-- Correlated Queries
-- Revenue Calculations
-- Customer Analytics
-- RFM Analysis
-- KPI Reporting
-
----
 
 ## Business Problems Solved
 
